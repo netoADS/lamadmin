@@ -1,11 +1,15 @@
-import { Sidebar } from "../../components/Sidebar";
+import Sidebar from "../../components/Sidebar/Sidebar";
+import Navbar from "../../components/Navbar/Navbar";
 import "./home.scss";
 
 const Home = () => {
   return (
     <div className="home">
       <Sidebar />
-      <div className="homeContainer">Container</div>
+      <div className="homeContainer">
+        <Navbar />
+        home container
+      </div>
     </div>
   );
 };
