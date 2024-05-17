@@ -13,10 +13,10 @@ https://www.youtube.com/watch?v=yKV1IGahXqA
 
 ### 1º dia:
 
-- Neto desenvolveu até o 34:54
+- *netoADS* desenvolveu até o 34:54
 
-- Jonatas desenvolveu até o 38:10
+- *Rasanhii* desenvolveu até o 38:10
 
 ### 2º dia:
 
-- Jonatas desenvolveu até 
+- *Rasanhii* desenvolveu até 41:50
