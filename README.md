@@ -9,7 +9,7 @@ Este é um projeto feito em React.js
 ### Video tutorial
 https://www.youtube.com/watch?v=yKV1IGahXqA
 
-## `Controle de versão` 
+# `Controle de versão` 
 
 ### 1º dia:
 
