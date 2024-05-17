@@ -9,14 +9,13 @@ Este é um projeto feito em React.js
 ### `Video tutorial`
 https://www.youtube.com/watch?v=yKV1IGahXqA
 
-
-### Controle de desenvolvimento
-
-## `1º dia`
+### Controle de 
+## 1º dia:
 
 - Neto desenvolveu até o 34:54
 
 - Jonatas desenvolveu até o 38:10
 
-## `2º dia`
+## 2º dia:
 
+- Jonatas desenvolveu até 
