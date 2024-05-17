@@ -6,10 +6,10 @@ Este é um projeto feito em React.js
   <img title="React" alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-### `Video tutorial`
+### Video tutorial
 https://www.youtube.com/watch?v=yKV1IGahXqA
 
-## Controle de versão 
+## `Controle de versão` 
 
 ### 1º dia:
 
