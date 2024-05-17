@@ -1,4 +1,4 @@
-### Descrição
+# Descrição
 
 Este é um projeto feito em React.js
 
@@ -6,17 +6,17 @@ Este é um projeto feito em React.js
   <img title="React" alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-### `Video tutorial`
+# `Video tutorial`
 https://www.youtube.com/watch?v=yKV1IGahXqA
 
-### Controle de versão 
+## Controle de versão 
 
-## 1º dia:
+### 1º dia:
 
 - Neto desenvolveu até o 34:54
 
 - Jonatas desenvolveu até o 38:10
 
-## 2º dia:
+### 2º dia:
 
 - Jonatas desenvolveu até 
