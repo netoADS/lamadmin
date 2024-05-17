@@ -9,7 +9,8 @@ Este é um projeto feito em React.js
 ### `Video tutorial`
 https://www.youtube.com/watch?v=yKV1IGahXqA
 
-### Controle de 
+### Controle de versão 
+
 ## 1º dia:
 
 - Neto desenvolveu até o 34:54
