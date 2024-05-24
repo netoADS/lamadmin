@@ -20,3 +20,7 @@ https://www.youtube.com/watch?v=yKV1IGahXqA
 ### 2º dia:
 
 - *Rasanhii* desenvolveu até 41:50
+
+### 3º dia:
+
+- *Rasanhii* desenvolvel até 1:03:10
