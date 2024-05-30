@@ -23,11 +23,11 @@ https://www.youtube.com/watch?v=yKV1IGahXqA
 
 ### 3º dia:
 
-- *Rasanhii* desenvolvel até 1:03:10
+- *Rasanhii* desenvolveu até 1:03:10
 
 ### 4º dia:
 
-- *Pcastroneto* desenvolvel até 1:24:10 // Vou verifificar o tamanho do component Featured qe ficou sus
+- *Pcastroneto* desenvolveu até 1:24:10 // Vou verifificar o tamanho do component Featured qe ficou sus
   ```
   //Foi acionado
   npm install react-circular-progressbar
