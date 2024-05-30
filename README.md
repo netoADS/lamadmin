@@ -25,11 +25,12 @@ https://www.youtube.com/watch?v=yKV1IGahXqA
 
 - *Rasanhii* desenvolvel até 1:03:10
 
-- ### 4º dia:
+### 4º dia:
 
-- *Pcastroneto* desenvolvel até 1:12:39
+- *Pcastroneto* desenvolvel até 1:24:10 // Vou verifificar o tamanho do component Featured qe ficou sus
   ```
   //Foi acionado
   npm install react-circular-progressbar
+  npm install recharts
   ```
 
