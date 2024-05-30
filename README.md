@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=yKV1IGahXqA
 
 - *Pcastroneto* desenvolveu até 1:24:10 // Vou verifificar o tamanho do component Featured qe ficou sus
   ```
-  //Foi acionado
+  //Foi adcionado
   npm install react-circular-progressbar
   npm install recharts
   ```
