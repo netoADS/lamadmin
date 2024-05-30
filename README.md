@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=yKV1IGahXqA
 
 ### 4º dia:
 
-- *Pcastroneto* desenvolveu até 1:24:10 // Vou verifificar o tamanho do component Featured qe ficou sus
+- *Pcastroneto* desenvolveu até 1:24:10 // Vou verifificar o tamanho do component Featured que ficou sus
   ```
   //Foi adcionado
   npm install react-circular-progressbar
