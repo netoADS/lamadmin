@@ -24,3 +24,11 @@ https://www.youtube.com/watch?v=yKV1IGahXqA
 ### 3º dia:
 
 - *Rasanhii* desenvolvel até 1:03:10
+
+- ### 4º dia:
+
+- *Pcsatroneto* desenvolvel até 1:03:10
+  ```
+  npm install react-circular-progressbar
+  ```
+
