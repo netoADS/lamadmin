@@ -34,3 +34,6 @@ https://www.youtube.com/watch?v=yKV1IGahXqA
   npm install recharts
   ```
 
+### 5º dia:
+
+- *Rasanhii* desenvolvel até 1:34:50

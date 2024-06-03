@@ -9,38 +9,38 @@ const Featured = () => {
     return (
         <div className="featured">
             <div className="top">
-                <h1 className="title">Total Revenue</h1>
+                <h1 className="title">Receita</h1>
                 <MoreVertIcon fontSize="small" />
             </div>
             <div className="bottom">
                 <div className="featuredChart">
-                    <CircularProgressbar value={70} text={"70%"} strokeWidth={5}/>
+                    <CircularProgressbar value={67} text={"67%"} strokeWidth={5}/>
                 </div>
-                < p className="title">Total sales made today</p>
-                < p className="amount">R$420</p>
-                < p className="desc">
+                <p className="title">Total de Vendas Hoje</p>
+                <p className="amount">R$12.461,56</p>
+                <p className="desc">
                 Processamento de transações anteriores. Os últimos pagamentos podem não estar incluídos.
                 </p>
                 <div className="summary">
                     <div className="item">
-                        <div className="itemTitle">Target</div>
+                        <div className="itemTitle">Objetivo</div>
                         <div className="itemResult negative">
                             <KeyboardArrowDownIcon fontSize="small"/>
-                            <div className="resultAmount"> R$12.4k</div>
+                            <div className="resultAmount"> R$12,4 mil</div>
                         </div>
                     </div>
                     <div className="item">
-                        <div className="itemTitle">Last Week</div>
+                        <div className="itemTitle">Semana Anterior</div>
                         <div className="itemResult positive">
                             <KeyboardArrowUpOutlined fontSize="small"/>
-                            <div className="resultAmount"> R$12.4k</div>
+                            <div className="resultAmount"> R$11,9 mil</div>
                         </div>
                     </div>
                     <div className="item">
-                        <div className="itemTitle">Last Month</div>
+                        <div className="itemTitle">Mês Anterior</div>
                         <div className="itemResult positive">
                             <KeyboardArrowUpOutlined fontSize="small"/>
-                            <div className="resultAmount"> R$12.4k</div>
+                            <div className="resultAmount"> R$73,2 mil</div>
                         </div>
                     </div>
                 </div>
