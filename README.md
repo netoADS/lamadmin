@@ -37,3 +37,6 @@ https://www.youtube.com/watch?v=yKV1IGahXqA
 ### 5º dia:
 
 - *Rasanhii* desenvolvel até 1:34:50
+
+### 6º dia:
+- *Pcastroneto* desenvolveu até 1:54:58 // arrumar as cor que ficou paia
